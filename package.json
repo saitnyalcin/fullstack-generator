@@ -1,5 +1,5 @@
 {
-  "name": "my-fullstack-generator",
+  "name": "fullstack-generator",
   "version": "1.0.0",
   "description": "Generate a full-stack application with React Vite and ASP.NET Core.",
   "main": "index.js",
@@ -14,11 +14,12 @@
     "generator",
     ".net",
     "asp",
-    "backend",
     "vite",
     "react",
     "typescript",
+    "javascript",
     "frontend",
+    "backend",
     "library"
   ],
   "author": "Sait N Yalcin",
