@@ -28,20 +28,24 @@ Make sure you have the following installed on your machine:
    cd fullstack-generator
    ```
 
-3. Run the following command to install dependencies for frontend:
+3. Run the following command to generate a full stack application:
 
    ```bash
-   npm install
+   generate-fullstack your-project-name
    ```
 
 ### Usage
 
 #### Frontend (React Vite)
 
-1. Change into the `frontend` directory:
+1. Change into the `frontend` directory and install the dependencies:
 
    ```bash
    cd frontend
+   ```
+
+   ```bash
+   npm install
    ```
 
 2. Run the development server:
