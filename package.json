@@ -22,5 +22,9 @@
     "library"
   ],
   "author": "Sait N Yalcin",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saitnyalcin/fullstack-generator.git"
+  }
 }
