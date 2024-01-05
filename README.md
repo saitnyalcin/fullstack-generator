@@ -31,7 +31,7 @@ Make sure you have the following installed on your machine:
 3. Run the following command to generate a full stack application:
 
    ```bash
-   node index.js myapp
+   generate-fullstack your-project-name
    ```
 
 ### Usage
