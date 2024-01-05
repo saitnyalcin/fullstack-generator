@@ -1,7 +1,7 @@
 {
   "name": "fullstack-generator",
-  "version": "1.0.4",
-  "description": "Generate a full-stack application with React Vite and ASP.NET Core.",
+  "version": "1.0.5",
+  "description": "The Full Stack Generator is a Node.js command-line tool packaged for npm, designed to streamline the initiation of full-stack applications.",
   "main": "index.js",
   "bin": {
     "generate-fullstack": "./index.js"

@@ -1,6 +1,6 @@
 # Full-Stack Application
 
-This project is a full-stack application generated using Node.js, npm, and .NET Core. It consists of a frontend built with React (Vite) and a backend built with ASP.NET Core.
+The Full Stack Generator is a Node.js command-line tool packaged for npm, designed to streamline the initiation of full-stack applications. This tool automates the creation of a project structure that includes both a React Vite frontend and an ASP.NET Core backend. Users can quickly set up a full-stack development environment by installing the package globally and using a simple command to generate a new full-stack application in their desired directory.
 
 ## Getting Started
 
