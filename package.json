@@ -1,11 +1,8 @@
 {
   "name": "fullstack-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a full-stack application with React Vite and ASP.NET Core.",
   "main": "index.js",
-  "bin": {
-    "generate-fullstack": "index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
