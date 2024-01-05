@@ -14,6 +14,22 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/)
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 
+### Usage
+
+1. Install the package globally:
+
+   ```bash
+   npm install -g full-stack-generator
+   ```
+
+2. Generate a new full-stack application:
+
+   ```bash
+   generate-fullstack <yourAppName>
+   ```
+
+3. Follow any additional prompts or instructions during the generation process.
+
 ### Installation
 
 1. Clone this repository to your local machine:
@@ -31,10 +47,8 @@ Make sure you have the following installed on your machine:
 3. Run the following command to generate a full stack application:
 
    ```bash
-   generate-fullstack your-project-name
+   generate-fullstack <yourAppName>
    ```
-
-### Usage
 
 #### Frontend (React Vite)
 

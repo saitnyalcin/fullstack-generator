@@ -1,6 +1,6 @@
 {
   "name": "fullstack-generator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The Full Stack Generator is a Node.js command-line tool packaged for npm, designed to streamline the initiation of full-stack applications.",
   "main": "index.js",
   "bin": {
@@ -20,8 +20,28 @@
     "javascript",
     "frontend",
     "backend",
-    "library"
-  ],
+    "library",
+    "application",
+    "automation",
+    "scaffold",
+    "development",
+    "initiator",
+    "command-line",
+    "npm",
+    "package",
+    "web",
+    "project",
+    "tool",
+    "rapid",
+    "setup",
+    "modern",
+    "stack",
+    "framework",
+    "web-development",
+    "code-initiation",
+    "cross-platform",
+    "developer-tools"
+  ],  
   "author": "Sait N Yalcin",
   "license": "MIT",
   "repository": {

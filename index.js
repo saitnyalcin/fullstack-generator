@@ -22,14 +22,14 @@ const generateFullStackApp = (appName) => {
   // Initialize backend (ASP.NET Core)
   execSync(`dotnet new mvc -n backend`, { cwd: rootDir });
 
-  console.log("Full-stack application generated successfully!");
+  console.log("Full-stack application has been generated successfully!");
 };
 
 // Accept the app name as a command-line argument
 const appName = process.argv[2];
 
 if (!appName) {
-  console.error("Please provide a name for your full-stack app.");
+  console.error("Please provide a name for your full-stack application.");
   process.exit(1);
 }
 
