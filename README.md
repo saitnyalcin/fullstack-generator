@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 1. Install the package globally:
 
    ```bash
-   npm install -g full-stack-generator
+   npm install -g fullstack-generator
    ```
 
 2. Generate a new full-stack application:
